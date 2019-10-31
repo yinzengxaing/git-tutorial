@@ -1,6 +1,2 @@
 hello a.txt
-<<<<<<< HEAD
 update a.f2
-=======
-f1 233333333
->>>>>>> f1
